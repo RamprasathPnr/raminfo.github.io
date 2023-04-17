@@ -62434,7 +62434,7 @@ AW(a){var s=this,r=a.a
 if(r==="Contact")s.pj()
 else if(r==="Home")s.pk()
 else if(r==="Services")s.pm()
-else if(r==="Portfolio")s.pl()
+else if(r==="Projects")s.pl()
 else if(r==="About")s.pi()}}
 A.aev.prototype={
 $1(a){return new A.jB(B.uI,$.br())},
@@ -69490,8 +69490,8 @@ r($,"aHq","aqP",()=>new A.SP(A.aM(t.Gf)))
 r($,"aHh","aqL",()=>new A.St())
 s($,"aDB","aoH",()=>A.dA("^[\\w!#%&'*+\\-.^`|~]+$",!0))
 r($,"aEu","ap0",()=>{var q="Android App",p="Flutter App",o="Github Link",n=A.O("o<iV>")
-return A.a([A.HQ("assets/images/projects/prism.jpg",null,"The prism mobile app will enable the users to do all PRISM related daily activities from the app itself. User will be able to do activities Like View Sales Funnel, Management of Daily calls, View and edit customer database, View performance through the \u2018My Reports\u2019 section and Beat Plan tracking",q,"",A.a([$.Ry(),$.Rz()],n),"Prism 2.0"),A.HQ("assets/images/projects/parts365.jpg",o,"Parts365 audit app will help users to do track warehouse and Dealer stock and used to track the CSE and DPE location with google map tracking",p,"",A.a([$.Ry(),$.Rz()],n),"Parts365"),A.HQ("assets/images/projects/digiparts.jpg",null,"DigiParts  application helps to book the spare parts by the dealer parts executives depending on the vehicle condition and to track the order status.Customer support executives are facilitated to show all vehicle spare parts with prices and discount to customer and redeem the available coupons for order creation. ",q,"",A.a([$.Ry(),$.Rz()],n),"Digiparts"),A.HQ("assets/images/projects/aftermarket_audit.jpg",o,"The aftermarket audit app will help users do audits like hygiene and workshop audits for Ashok Leyland Service Centres to ensure the quality of services.  ",p,"",A.a([$.ahS(),$.ahR()],n),"Aftermarket Audit APp")],A.O("o<nS>"))})
-r($,"aEt","ap_",()=>A.a([A.HQ("outputs/gif/mobile.gif","Github Link","","Flutter App","",A.a([],A.O("o<iV>")),"Flutter Web Portfolio")],A.O("o<nS>")))
+return A.a([A.HQ("assets/images/projects/prism.jpg",null,"The prism mobile app will enable the users to do all PRISM related daily activities from the app itself. User will be able to do activities Like View Sales Funnel, Management of Daily calls, View and edit customer database, View performance through the \u2018My Reports\u2019 section and Beat Plan tracking",q,"",A.a([$.Ry(),$.Rz()],n),"Prism 2.0"),A.HQ("assets/images/projects/parts365.jpg",o,"Parts365 audit app will help users to do track warehouse and Dealer stock and used to track the CSE and DPE location with google map tracking",p,"",A.a([$.Ry(),$.Rz()],n),"Parts365"),A.HQ("assets/images/projects/digiparts.jpg",null,"DigiParts  application helps to book the spare parts by the dealer parts executives depending on the vehicle condition and to track the order status.Customer support executives are facilitated to show all vehicle spare parts with prices and discount to customer and redeem the available coupons for order creation. ",q,"",A.a([$.Ry(),$.Rz()],n),"Digiparts"),A.HQ("assets/images/projects/aftermarket_audit.jpg",o,"The aftermarket audit app will help users do audits like hygiene and workshop audits for Ashok Leyland Service Centres to ensure the quality of services.  ",p,"",A.a([$.ahS(),$.ahR()],n),"Aftermarket Audit APP")],A.O("o<nS>"))})
+r($,"aEt","ap_",()=>A.a([A.HQ("assets/images/social/whatsapp.png","Github Link","","Flutter App","",A.a([],A.O("o<iV>")),"Flutter Web Portfolio")],A.O("o<nS>")))
 r($,"aEX","ahS",()=>A.JL("Flutter","assets/images/technology/flutter.png"))
 r($,"aEV","Ry",()=>A.JL("Android","assets/images/technology/android.png"))
 r($,"aEW","ahR",()=>A.JL("Dart","assets/images/technology/dart.png"))
